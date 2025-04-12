@@ -1,4 +1,7 @@
 {
+  "name": "happy-restaurant-app",
+  "version": "1.0.0",
+  "description": "Mobilalkalmazás éttermek számára digitális étlappal és rendeléskezeléssel, a Happy Solutions fejlesztésében.",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
@@ -59,5 +62,7 @@
     "lint-staged": "^11.0.0",
     "prettier": "^2.3.0"
   },
+  "author": "Ferenc Farkas <ferenc.farkas@happysolutions.hu>",
+  "license": "UNLICENSED",
   "private": true
 }
